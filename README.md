@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello
+
+Moving into cloud and infrastructure development practices from traditional infrastructure experience.  And of course learning GitHub.
 
 <!--
 **ccthomps/ccthomps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
